@@ -52,4 +52,31 @@ __Lista Demarcada:__
 
 _Criando link:_ [Clique Aqui](https://www.instagram.com/leonardosn95/)
 
+*Criando uma tabela:*
+
+**NOME** | __IDADE__ | **ALTURA**
+-- | -- | --
+Leonardo | 28 | 1,60m
+Pedro | 8 | 1,0m
+Ana Vitória | 15 | 1,50m
+
+Fim da tabela
+
+Isso é um exemplo de comando Python: `print('Hello, world!')`
+
+Esse é um bloco de código em Python:
+
+```
+num = int(input('Digite um número: '))
+if num % 2 == 0:
+    print(f'O número {num} é PAR!')
+else:
+    print(input(f'O número {num} é IMPAR!'))
+
+```
+
+__Um código legal de Python:__
+
+![Código Python](https://user-images.githubusercontent.com/121268109/233483867-254cbe05-0735-4723-a030-6aef39aad40b.jpg)
+
 
