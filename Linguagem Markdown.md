@@ -79,4 +79,6 @@ __Um código legal de Python:__
 
 ![Código Python](https://user-images.githubusercontent.com/121268109/233483867-254cbe05-0735-4723-a030-6aef39aad40b.jpg)
 
+Colocando um emoji ✈️ 🖖 (obs: usa dois pontos!)
+
 
