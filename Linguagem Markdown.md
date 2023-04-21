@@ -81,4 +81,5 @@ __Um código legal de Python:__
 
 Colocando um emoji ✈️ 🖖 (obs: usa dois pontos!)
 
+Para colocar um emoji no título de uma **issues** é só acessar o site: https://emojipedia.org/ copiar e depois colar!
 
